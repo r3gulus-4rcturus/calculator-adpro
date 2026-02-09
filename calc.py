@@ -12,10 +12,10 @@ class Calculator:
         pass  # to do
 
     def modulo(self, a, b):
-        return a % b # to do
+        pass # to do
 
     def power(self, a, b):
-        pass  # to do
+        return a**b  # to do
 
 
 if __name__ == "__main__":
