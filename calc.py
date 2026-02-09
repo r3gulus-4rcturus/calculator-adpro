@@ -9,7 +9,7 @@ class Calculator:
         return a*b
 
     def divide(self, a, b):
-        pass  # to do
+        return a/b
 
     def modulo(self, a, b):
         pass  # to do
