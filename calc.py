@@ -3,7 +3,7 @@ class Calculator:
         pass  # to do
 
     def subtract(self, a, b):
-        pass  # to do
+        return a - b
 
     def multiply(self, a, b):
         pass  # to do
