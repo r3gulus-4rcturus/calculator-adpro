@@ -12,7 +12,7 @@ class Calculator:
         pass  # to do
 
     def modulo(self, a, b):
-        return a % b # to do
+        return a % b
 
     def power(self, a, b):
         pass  # to do
